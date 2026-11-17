@@ -2,7 +2,7 @@
 <h3 align="center">🛡️ Microsoft Security MVP · SIEM & XDR</h3>
 
 <p align="center">
-  <a href="MVP_PROFILE_URL"><img src="https://img.shields.io/badge/Microsoft-Security%20MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Security MVP"/></a>
+  <a href="https://mvp.microsoft.com/it-IT/MVP/profile/0f21f766-f8d4-4616-ab3d-fac95b49f643"><img src="https://img.shields.io/badge/Microsoft-Security%20MVP-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Security MVP"/></a>
   <img src="https://img.shields.io/badge/Location-Italy-009246?style=for-the-badge" alt="Italy"/>
 </p>
 
@@ -22,7 +22,7 @@ I build scripts and tools that help people get the most out of Microsoft Securit
 ## 🏅 Microsoft MVP
 
 <p>
-  <a href="MVP_PROFILE_URL">
+  <a href="https://mvp.microsoft.com/it-IT/MVP/profile/0f21f766-f8d4-4616-ab3d-fac95b49f643">
     <img src="https://img.shields.io/badge/View%20my-MVP%20Profile-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="My Microsoft MVP Profile"/>
   </a>
 </p>
